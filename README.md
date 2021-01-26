@@ -1,2 +1,0 @@
-# remitano
-bugs for remitano
